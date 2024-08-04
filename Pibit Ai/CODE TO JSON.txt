@@ -1,0 +1,70 @@
+Resume_in_json
+{
+  "contactInformation": {
+    "name": "Shivam Kumar",
+    "linkedin": "www.linkedin.com/in/shivamkumarrana",
+    "email": "sk5459171@gmail.com",
+    "github": "https://github.com/shivamsinghrana",
+    "mobile": "+91-7541008146"
+  },
+  "skillsSummary": {
+    "languages": ["C++", "JavaScript", "PHP"],
+    "frameworks": ["HTML and CSS", "NodeJS"],
+    "toolsPlatforms": ["MySQL", "MS Excel", "Tableau", "Git"],
+    "softSkills": ["Leadership", "Problem-Solving Skills", "Communication", "Adaptability"]
+  },
+  "internship": {
+    "internAt": "Min. of Defence, DRDO",
+    "since": "March 2023",
+    "toolsUsed": ["MATLAB"],
+    "application": "Involved simulations and modeling",
+    "researchArea": "Solid-state physics"
+  },
+  "projects": [
+    {
+      "projectName": "Predicting-Customer-Churn-in-a-Telecommunications-Company",
+      "date": "June 2024",
+      "tech": ["MySQL", "Pandas in Python", "Matplotlib", "Seaborn in Python"]
+    },
+    {
+      "projectName": "Movie-Recommender-System",
+      "date": "July 2024",
+      "tech": ["Machine learning algorithms", "User-friendly interface"],
+      "deployLink": "https://refactored-bassoon.onrender.com/"
+    }
+  ],
+  "achievements": [
+    "Sports community BH1(President)",
+    "Aashray Army (Member)_",
+    "LPU NSS volunteer",
+    "Incredible8-LPU’(Inter hostel competition)",
+    "One among Dean’s top 10 % students at University"
+  ],
+  "certifications": [
+    "Board infinity Program in Data Structure and Algorithm (June 2023)",
+    "Excel Skills for Data Analytics and Visualization (Dec 2023)",
+    "Devtown for cloning of Hotstar (Aug 2022)"
+  ],
+  "education": [
+    {
+      "institution": "Lovely Professional University, Punjab, India",
+      "degree": "Bachelor of Technology - Computer Science and Engineering",
+      "cgpa": 7.47,
+      "since": "August 2021",
+      "favoriteCourses": ["Object Oriented Programming", "Data Structures", "Analysis of Algorithms", "MERN Full Stack"]
+    },
+    {
+      "institution": "Gram Bharti College, Ramgarh, Bihar",
+      "degree": "Intermediate",
+      "percentage": 68,
+      "since": "April 2018 - March 2020",
+      "favoriteCourses": ["Physics", "Chemistry", "Mathematics", "Computer Science"]
+    },
+    {
+      "institution": "Children Gardens Academy, Mohania, Kaimur",
+      "degree": "Matriculation",
+      "percentage": 78,
+      "since": "April 2016 - March 2018"
+    }
+  ]
+}

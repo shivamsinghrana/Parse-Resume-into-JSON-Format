@@ -1,0 +1,27 @@
+Step 1: First we need define the task 
+
+Task Name: Resume Parser
+Task Description: Take a resume as input and extract relevant information to generate a JSON output.
+Input Format: We will give Resume in plain text or PDF format
+Output Format: JSON object with extracted information
+
+Step 2: Identify the Entities to Extract
+
+Entities:
+Contact Information:
+Work Experience:
+Skills:
+Achievements 
+
+Step 3: We need to Prepare the Training Data
+
+Collect Resumes: Gather a large dataset of resumes in various formats (e.g., PDF, Word, plain text) and from different industries.
+Annotate the Resumes: Manually annotate each resume by identifying the entities mentioned in Step which  will create a labeled dataset.
+Create a JSON Template: Design a JSON template with the extracted entities as keys and empty values. This  will serve as the output format.
+
+Step 4: Train the Model
+
+Choose a Model: Select a suitable NLP model, such as a named entity recognition (NER) model or a transformer-based model, to parse the resume content.
+Train the Model: Train the model on the annotated dataset, using the JSON template as the output format.
+
+Step 5: Test and Refine the Model
